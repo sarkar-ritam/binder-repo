@@ -19,4 +19,4 @@ scikit-learn==0.24.2
 opencv-python==4.5.3.56
 pandas-profiling==2.6.0
 google-auth==1.4.2
-google==1.4.2
+google-colab==1.0.0
